@@ -1,5 +1,5 @@
 # golang-gin-sederhana
-golang sederhana menggunakan gin freamwork
+golang sederhana menggunakan gin framework
 
 - git clone https://github.com/badrusalsyihab/golang-gin-sederhana.git
 - create db golang
